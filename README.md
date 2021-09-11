@@ -1,2 +1,2 @@
-# modified-shader-for-pojav-launcher-vgpu
-A shader with pc-like coloring/lighting for minecraft on pojav launcher.
+# test-shader-for-pojav-launcher-vgpu
+this is a shader in testing, so it's only natural that there are bugs in some phones.
